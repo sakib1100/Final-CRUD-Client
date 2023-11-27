@@ -1,0 +1,42 @@
+.homeContainer{
+    text-align: center;
+}
+.navmain{
+    display: flex;
+    justify-content: center;
+}
+
+.insertRow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    max-width: auto;
+    padding: 60px;
+    
+   
+    
+}
+.insertForm{
+  text-align: center;
+  width: 25%;
+  background-color: LightGray;
+  border-radius: 5px;
+  padding: 40px;
+
+}
+
+
+form input{
+    margin: 5px;
+    height: 40px;
+    width: 100%;
+   border-radius: 4px;
+    outline: none;
+    border: none;
+
+    
+}
+input{
+    padding: 5px 10px;
+}
